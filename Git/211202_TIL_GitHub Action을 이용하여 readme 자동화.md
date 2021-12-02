@@ -1,4 +1,4 @@
-## GitHub Action을 이용하여 readme 자동화
+# GitHub Action을 이용하여 readme 자동화
 
 <br/>
 

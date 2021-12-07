@@ -8,11 +8,6 @@ _4 TILs and counting..._
 
 ---
 
-### 2 most recent TILs
-
-- [GitHub Action을 이용하여 readme 자동화](Git/GitHub_Action을_이용하여_readme_자동화.md) - Fri Dec 3 00:57:59 2021 +0900
-- [Table Views, UITableController](Ios/Tabel_Views_UITableController.md) - Fri Dec 3 23:23:43 2021 +0900
-
 ### Categories
 
 - [Git](#Git)

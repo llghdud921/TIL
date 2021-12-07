@@ -4,7 +4,7 @@
 공부한 것을 기록합니다 🐭
 
 
-_3 TILs and counting..._
+_4 TILs and counting..._
 
 ---
 
@@ -27,6 +27,7 @@ _3 TILs and counting..._
 
 ### [Swift](#Swift)
 - [JSON Decoder](Swift/JSONDecoder.md)
+- [NSDataAssetName extension을 이용한 하드코딩 방지](Swift/extension활용하기.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til

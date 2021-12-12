@@ -4,13 +4,14 @@
 공부한 것을 기록합니다 🐭
 
 
-_8 TILs and counting..._
+_9 TILs and counting..._
 
 ---
 
 ### Categories
 
 - [Algorithm](#Algorithm)
+- [DataStructure](#DataStructure)
 - [DesignPattern](#DesignPattern)
 - [Git](#Git)
 - [Ios](#Ios)
@@ -18,6 +19,9 @@ _8 TILs and counting..._
 
 ### [Algorithm](#Algorithm)
 - [꼬리재귀](Algorithm/꼬리재귀.md)
+
+### [DataStructure](#DataStructure)
+- [단순 연결 리스트 (Singly Linked List)](DataStructure/SinglyLinkedList.md)
 
 ### [DesignPattern](#DesignPattern)
 - [MVC ( Model-View-Controller )](DesignPattern/MVC.md)

@@ -4,15 +4,19 @@
 공부한 것을 기록합니다 🐭
 
 
-_6 TILs and counting..._
+_7 TILs and counting..._
 
 ---
 
 ### Categories
 
+- [DesignPattern](#DesignPattern)
 - [Git](#Git)
 - [Ios](#Ios)
 - [Swift](#Swift)
+
+### [DesignPattern](#DesignPattern)
+- [](DesignPattern/MVC.md)
 
 ### [Git](#Git)
 - [GitHub Action을 이용하여 readme 자동화](Git/GitHub_Action을_이용하여_readme_자동화.md)

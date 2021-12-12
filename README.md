@@ -4,16 +4,20 @@
 공부한 것을 기록합니다 🐭
 
 
-_7 TILs and counting..._
+_8 TILs and counting..._
 
 ---
 
 ### Categories
 
+- [Algorithm](#Algorithm)
 - [DesignPattern](#DesignPattern)
 - [Git](#Git)
 - [Ios](#Ios)
 - [Swift](#Swift)
+
+### [Algorithm](#Algorithm)
+- [꼬리재귀](Algorithm/꼬리재귀.md)
 
 ### [DesignPattern](#DesignPattern)
 - [MVC ( Model-View-Controller )](DesignPattern/MVC.md)

@@ -4,7 +4,7 @@
 공부한 것을 기록합니다 🐭
 
 
-_9 TILs and counting..._
+_10 TILs and counting..._
 
 ---
 
@@ -31,6 +31,7 @@ _9 TILs and counting..._
 
 ### [Ios](#Ios)
 - [Table Views, UITableController](Ios/Tabel_Views_UITableController.md)
+- [TableView에서 Register 사용하기](Ios/TableView_Register.md)
 - [awakeFromNib](Ios/awakeFromNib.md)
 - [ScrollView Autolayout](Ios/scrollView_autolayout.md)
 

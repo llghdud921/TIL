@@ -4,7 +4,7 @@
 공부한 것을 기록합니다 🐭
 
 
-_13 TILs and counting..._
+_14 TILs and counting..._
 
 ---
 
@@ -38,6 +38,7 @@ _13 TILs and counting..._
 
 ### [Swift](#Swift)
 - [동시성 프로그래밍 Concurrency Programing (1)](Swift/Concurrency_Programming_1.md)
+- [동시성 프로그래밍 Concurrency Programing (2)](Swift/Concurrency_Programming_2.md)
 - [JSON Decoder](Swift/JSONDecoder.md)
 - [NSMutableAttributedString을 이용해서 String의 특정 부분만 속성 변경하기](Swift/NSMutableAttributedString.md)
 - [NSDataAssetName extension을 이용한 하드코딩 방지](Swift/extension활용하기.md)

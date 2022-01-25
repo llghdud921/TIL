@@ -4,7 +4,7 @@
 공부한 것을 기록합니다 🐭
 
 
-_26 TILs and counting..._
+_27 TILs and counting..._
 
 ---
 
@@ -52,6 +52,7 @@ _26 TILs and counting..._
 - [동시성 프로그래밍 Concurrency Programing (2)](Swift/Concurrency_Programming_2.md)
 - [동시성 프로그래밍 Concurrency Programing (3)](Swift/Concurrency_Programming_3.md)
 - [Dispatch group](Swift/DispatchGroup.md)
+- [Escaping Closure 활용](Swift/Escaping_closure_활용.md)
 - [Generic where 절](Swift/Generic_where_절.md)
 - [In-Out Parameters](Swift/In-Out_Parameters.md)
 - [JSON Decoder](Swift/JSONDecoder.md)

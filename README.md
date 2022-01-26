@@ -4,7 +4,7 @@
 공부한 것을 기록합니다 🐭
 
 
-_27 TILs and counting..._
+_28 TILs and counting..._
 
 ---
 
@@ -37,6 +37,7 @@ _27 TILs and counting..._
 - [Table Views, UITableController](Ios/Tabel_Views_UITableController.md)
 - [TableView에서 Register 사용하기](Ios/TableView_Register.md)
 - [awakeFromNib](Ios/awakeFromNib.md)
+- [DataSource 코드 분리](Ios/dataSource_코드_분리.md)
 - [frame과 bounds](Ios/frame_Bounds.md)
 - [pagination](Ios/pagination.md)
 - [reloadData](Ios/reloadData.md)
